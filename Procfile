@@ -1,0 +1,1 @@
+web: gunicorn DummyRestAPI.wsgi --log-file -
